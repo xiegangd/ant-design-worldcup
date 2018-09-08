@@ -87,6 +87,8 @@ class App extends Component {
                 case 'guestYellow':
                     currentMatch.guestYellow ++
                     break;
+                default:
+                    break;
             }
 
 
